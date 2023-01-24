@@ -49,6 +49,6 @@ Assigned ticket to agent "Jane Doe". Made ticket prioty status "Emergency". Made
 <img src="https://i.imgur.com/poWN51E.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Coordinated with the System Administrations team to resolve the issue. Once the issue was confirmed to be resolved, was able to closed the ticket.
 </p>
 <br />
