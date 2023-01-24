@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/CzOxXeU.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Assigned ticket to agent "Jane Doe". Made ticket prioty status "Emergency". Made ticket SLA status SEV-A.
+Assigned ticket to agent "Jane Doe". Made ticket prioty status "Emergency". Made ticket SLA status SEV-A. Assigned to System Administrators department. 
 </p>
 <br />
 
